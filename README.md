@@ -31,7 +31,7 @@ Você anda por uma cidade escura e nebulosa, enfrenta monstros, coleta vida e so
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/SHASHIBUKAY/ruas-da-nevoa.git
+git clone https://github.com/shashibukay/ruas-da-nevoa.git
 cd ruas-da-nevoa
 
 # Instale a dependência
